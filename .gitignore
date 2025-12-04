@@ -1,0 +1,30 @@
+# Binaries and executables
+lb
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.obj
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Build directories (if we use CMake later)
+build/
+bin/
+dist/
+
+# VS Code and Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
